@@ -8,14 +8,17 @@
 
 ### 🔭 I’m currently working on
 
-Using reinforcement learning to reduce energy consumption in large buildings!
+- Using reinforcement learning to reduce energy consumption in large buildings!
+- Working on a tool to automate my budgeting app
+   - Pulls transactions from my bank using [Plaid](https://plaid.com/), and from [Splitwise](https://www.splitwise.com/) then adds them to [ActualBudget](https://actualbudget.com/)
+   - Got tired of manually entering Splitwise transactions on YNAB
+   - Will make it open source once done
 
 ### ⚡ More about me:
 
 - Love writing small scripts to automate my life
 - I am a huge video game geek. Proud owner of a PS5 and a Steam Deck.
-- Love watching movies and tv Shows
-- I have watched The Office over 10 times now 
+- Love watching movies and TV Shows (I might've watched The Office close to 10 times by now)
 <!--
 **AakashSasikumar/AakashSasikumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
