@@ -17,7 +17,6 @@
 ### ⚡ More about me:
 
 - Love writing small scripts to automate my life
-- I am a huge video game geek. Proud owner of a PS5 and a Steam Deck.
 - Love watching movies and TV Shows (I might've watched The Office close to 10 times by now)
 <!--
 **AakashSasikumar/AakashSasikumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
